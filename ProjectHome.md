@@ -1,0 +1,1 @@
+This is Matlab code and data to reproduce the results from our paper on the metabolic model of Neurospora crassa.
